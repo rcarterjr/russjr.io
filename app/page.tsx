@@ -6,6 +6,7 @@ import { MOCK_PROJECTS, ProjectType } from "@/public/projects";
   * TODO:
   * - link projects
   * - add resume download
+  * - update nextjs logo favicon
 */
 
 export default function Home() {
